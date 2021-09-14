@@ -1,0 +1,14 @@
+#content {
+    color: rgb(200, 250, 255);
+    font-size: 30px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+}
+
+#content b {
+    color: rgb(255, 230, 0);
+}

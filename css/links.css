@@ -1,0 +1,52 @@
+.links {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    text-align: center;
+}
+
+.links a {
+    color: white;
+    text-decoration: none;
+    transition-duration: 0.4s;
+}
+
+.links img {
+    position: absolute;
+    top: 17%;
+    left: 16%;
+    transform: translate(-50%, -50%);
+}
+
+.links i {
+    padding: 10px;
+}
+
+.links a:hover {
+    color: rgb(255, 194, 194);
+}
+
+.om {
+    padding: 10%;
+    width: 100%;
+}
+
+.yt-contact {
+    padding: 10%;
+    width: 100%;
+}
+
+.dc-contact {
+    padding: 10%;
+    width: 100%;
+}
+
+.yt-contact i {
+    color: #FF0000;
+}
+
+.dc-contact i {
+    color: #7289da;
+}
